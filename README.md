@@ -1,13 +1,8 @@
 - 👋 Hello, I’m @garrygl
 - 👀 I’m interested in Network Automation
-- 🌱 I’m currently learning the Azure Networking Platform
+- 🌱 I’m currently learning the Azure networking platform at expert level
 - 📫 I can be reached at: skidrowing@gmail.com
-- ⚡ Fun fact: My avatar is me as a young teen driving my converted lawnmove gopher trapping rig. It was my first job. 
-🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 💬 Ask me
-- 😄 My website: 
-- ⚡ Fun fact: 
+- 😄 Fun fact: My avatar is me as a young teen operating my converted lawnmower - gopher trapping rig. It was my first job and reminds me to ignore the background noise and to keep working hard.
 
 <!---
 garrygl/garrygl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
