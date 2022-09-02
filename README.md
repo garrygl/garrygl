@@ -2,7 +2,7 @@
 - 👀 I’m interested in Network Automation and my GNS3 playground
 - 🌱 I’m currently learning the Azure networking platform at an expert level
 - 📫 I can be reached at: skidrowing@gmail.com
-- 😄 Fun fact: The avatar is me as a young teen (with my brother) operating a riding lawnmower I converted into a gopher trapping rig. It was my first job and reminds me to ignore the background noise and to keep working smart, not hard.
+- 😄 Fun fact: The avatar is me as a young teen (with my brother) operating a riding lawnmower that I converted into a gopher trapping rig. It was my first job and reminds me to ignore the background noise and to keep working smart, not hard.
 
 <!---
 garrygl/garrygl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
