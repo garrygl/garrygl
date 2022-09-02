@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @garrygl
-- 👀 I’m interested in Network Automation
-- 🌱 I’m currently learning the Azure networking platform at expert level
+- 👀 I’m interested in Network Automation and my GNS3 playground
+- 🌱 I’m currently learning the Azure networking platform at an expert level
 - 📫 I can be reached at: skidrowing@gmail.com
 - 😄 Fun fact: My avatar is me as a young teen operating my converted lawnmower - gopher trapping rig. It was my first job and reminds me to ignore the background noise and to keep working hard.
 
